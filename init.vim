@@ -69,7 +69,6 @@ Plug 'preservim/nerdcommenter',
 Plug 'ryanoasis/vim-devicons',
 Plug 'vwxyutarooo/nerdtree-devicons-syntax',
 Plug 'mlaursen/vim-react-snippets',
-Plug 'neovim/nvim-lspconfig',
 Plug 'jose-elias-alvarez/null-ls.nvim',
 Plug 'MunifTanjim/eslint.nvim'
 "visual
